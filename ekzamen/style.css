@@ -1,0 +1,47 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: rgb(97, 97, 97);
+    margin: 0px;
+}
+
+footer{
+    background-color: rgb(52, 52, 52);
+    height: 70px;
+}
+
+.nav{
+    background-color: rgb(52, 52, 52);
+    height: 65px;
+}
+
+.nav-ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    font-size: 30px;
+}
+
+.nav-a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav-a:hover{
+    color: rgb(66, 66, 255);
+}
+
+.gi{
+   font-size: 80px; 
+}
+
+.video{
+    display: flex;
+}
+
+.ji{
+    font-size: 30px;
+}
